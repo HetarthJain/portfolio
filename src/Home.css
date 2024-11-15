@@ -1,0 +1,115 @@
+/* ---------------NAVBAR------------------------ */
+.navbar{
+    padding: 7px 10px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+.logo1{
+    display: flex;
+    flex-direction: flex-end;
+    justify-content: center;
+    float: left;
+    align-items: center;
+}
+.hj{
+    float: left;
+    font-size: 20px;
+}
+.navbar ul li {
+    display: inline-block; 
+    /* horizontal display */
+    list-style: none;
+    margin: 10px 15px;
+}
+
+.navbar ul li a{
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+    position: relative;
+}
+.navbar ul li a::after{
+    content: '';
+    width: 0;
+    height: 2px;
+    background-color: blueviolet;
+    position: absolute;
+    left: 0;
+    bottom: -2px;
+    transition: 0.5s;
+    border-radius: 2px;
+}
+.navbar ul li a:hover::after{
+    width: 100%;
+}
+hr{
+    height: 2px;
+    background-color: mediumvioletred;
+    border: 0;
+}
+/* -----------------HERO---------------------------- */
+.main{
+    padding-top: 2%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.main img{
+    border-radius: 50%;
+}
+.position{
+    margin-top: 0%;
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.position h1{
+    font-size: 50px;
+    margin-top: 20px;
+}
+.position span{
+    color: blueviolet;
+}
+.introduction{
+    margin: 10px 230px;
+    text-align: justify;
+    line-height: 24px;
+}
+/* ------------------CONTACT-LINKS---------------------------- */
+.links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 50px 10px 0px 10px;}
+.links ul li{
+    display: inline-block; 
+padding: 5px;
+margin: 5px;
+}
+.links svg{
+height: 40px;
+width: 40px;
+color: rebeccapurple;
+}
+/* -----------------FOOTER------------------------------ */
+footer{
+    height: 50px;
+    text-align: center;
+    margin-top: 25px;
+    font-size: 20px;
+}
+footer p{
+    /* color: blueviolet; */
+    font-size: 20px;
+    margin: 20px;
+    padding-bottom: 20px;
+}
+.foot{
+    height: 2px;
+    background-color: mediumvioletred;
+} 

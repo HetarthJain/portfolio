@@ -1,0 +1,46 @@
+/* ---------------PROJECTS------------------------ */
+.projects{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 20px auto;
+    width: 80%;
+    flex-wrap: wrap;
+}
+.projects h1{
+    display: block;
+    width: 100%;
+    margin: 10px auto;
+}
+.project-card{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    margin: 20px 30px 10px 0px;
+}
+
+.project-image{
+    height: 200px;
+    width: 198px;
+    border-radius: 4px;
+}
+.project-header{
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+    width: 99%;
+}
+.project-header svg{
+    font-size: 30px;
+    margin-top: 10px;
+}
+.project-title, .project-description{
+    margin: 10px 0px;
+}
+.project-description{
+    color: #888;
+    text-align: justify;
+}
+.project-stack{
+    font-size: 16px;
+    color: #666;
+}

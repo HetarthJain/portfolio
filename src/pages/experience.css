@@ -1,0 +1,113 @@
+/* ---------------EXPERIENCE------------------------ */
+.timeline-container {
+    position: relative;
+    margin: 20px auto;
+    padding: 10px 0;
+    width: 80%;
+}
+
+.timeline-item {
+    margin-bottom: 20px;
+}
+
+.experience-title{
+    font-size: 30px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    justify-content: space-between;
+}
+
+.company-name {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.role {
+    font-size: 16px;
+    color: #666;
+}
+
+.duration {
+    font-size: 14px;
+    color: #888;
+}
+
+.description {
+    margin-top: 5px;
+    font-size: 14px;
+    color: #666;
+    text-align: justify;
+}
+
+
+/* ---------------DOWNLOAD RESUME------------------------ */
+.download-box{
+    display: flex;
+    justify-content: center;
+}
+.download-button{
+    border: #888;
+    }
+.download-box button{
+    margin: 10px;
+    padding: 10px;
+    border-radius: 30px;
+    background-color: #666;
+    width: 150px;
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    cursor: pointer;
+}
+/* ---------------STACK------------------------ */
+.tech-stack-cont{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: 20px auto;
+    margin-top: 10px;
+}
+.stack{
+    display: inline-block;
+    font-size: 55px;
+}
+.stack h2{
+    font-size: 25px;
+    margin-top: 20px;
+}
+.stack svg{
+    margin: 10px 30px 5px 0px;
+    color: plum;
+}
+/* ----------------ARTICLE-LIST---------------------- */
+.article-comp{
+    margin: 20px auto;
+    width: 80%;
+}
+.article{
+    display: flex;
+    flex-direction: column;
+    margin: 15px 0px 30px;
+    border: 1px solid #666;
+    border-radius: 5px;
+}
+.article-comp h1{
+    display: flex;
+    flex-direction: column;
+    margin: 10px auto;
+}
+.article-title{
+    margin: 5px 10px 10px 10px;
+    font-size: 20px;
+    text-decoration: none;
+    color: antiquewhite;
+}
+.article-date{
+    align-self: flex-end;
+    margin-right: 10px;
+}
+

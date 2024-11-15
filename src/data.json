@@ -1,0 +1,78 @@
+{
+	"experiences":[
+		{
+			"company":"Bosch Global Software Technologies",
+			"duration":"October 2024 - Present",
+			"role":"Software Developer Intern (Student Trainee)",
+			"des":"Finetuning AI model to generate domain specific files and documents."
+		},
+		{
+			"company":"Nokia",
+			"duration":"August 2024 - October 2024",
+			"role":"Software Developer Intern (Student Trainee)",
+			"des":"Developed WebUI and PDF document from JSON data using ReactJs and React-PDF library, for migration of UI from Thymeleaf to React for an internal product.\nImplemented selection based conditional rendering of WebUI components suiting the client needs.\nLowered PDF download times from 10 minutes to 1-2 minutes."
+		}
+		
+	],
+	"articles":[
+		{
+			"title":"India lacks an intellectual, economic Hindu right wing,\nBJP does not qualify.",
+			"date":"19 October 2022",
+			"id":"1",
+			"content":"In his column National Interest, Shekhar Gupta wrote, “The BJP is not right wing. It is Hindu left.” There never was a sustained economic right wing in India. Very very few individuals at the time of independence thought of the benefits of free market capitalism in the US. The intellectual capacity of the Indian right wing was nearly non-existent. So naturally, socialism prevailed in India, as we were a poor nation.\n\nC Rajagopalachari, Minoo Masani, and KM Munshi formed the Swatantra party in 1959, arguing for the free market and limited government intervention in the economy. Swatantra party was the real Hindu right party as they were not against the Hindu culture of India and thus, were really secular and wanted to bring in the benefits of free market capitalism to Indian masses. But the party collapsed after the passing of C Rajagopalachari.\n\nBJP is a party derived from RSS which is just a cultural organization and an NGO. RSS is not an intellectual organization, which produces research work on economics, society, politics, and foreign policy. It doesn't have any deep and long-term thinking on these issues. Their goal is simply to promote cultural unity among Hindus and preserve good Hindu traditions and values. They are against the idea of Hindu majoritarianism and caste hegemony. It is the VHP, Bajrang Dal, and Bal Thackeray's Shiv Sena, who promote Hindu militancy, which is directed against Muslim Street Power that could riot and terrorise Hindus any time any place as they did at the time of Muzaffarnagar riots and Jamia riots which transformed into Shaheen Bagh and anti-CAA riots.\n\nIndia's Hindu and economic right wing is generally spread out and disunited, and have no institutional support. BJP as an organisation doesn't have the intellectual depth and rigour that Hindu and economic right needs. It detests professionals and intellectuals of even the right as they can't debate with them. They want the unquestioning loyalty of their professional advisors and if any criticism is heard, the advisors are ignored.\n\nNow the question is why Hindu? Leaders must recognise the Hindu nature of our country and not look down upon them. Bharat always had mutual respect for all religions, and this was possible only because of a Hindu majority. The Indian state from the beginning was un-secular and biased against Hindus. Multiple measures like the Hindu code bill, state control of temples, and special minority rights in education prove this. The Hindu right wants a Uniform Civil Code based on Bhartiya Sanatan laws, implementation of CAA, etc.\n\nIt is crystal clear from history that free market economics lift the poor out of poverty by industrialising a country, creating a massive amount of wealth and transforming society. As Gautam Chikermane and Rishi Agarwal said “If we want to see how a nation's polity smothers its own economic well-being, look no further than India's business laws.”So, the question is whether we want to be rich and powerful or remain the poor third-world country that we are. If we want to be rich, we must bring in policies of economic freedom, which the BJP is hesitant to bring.In the Indian political spectrum, the space for the right-wing is empty. All parties are fighting for the left space, even the BJP. And here no one can beat the BJP in left politics as they pose as Hindus and are socialists, who believe that the mai-baap government is the solution to every problem in the society. Opposition to the BJP is coming only from regional parties in Bengal, Maharashtra, Tamil Nādu, etc from the leftist position itself. The regional leaders will not compromise and set their egos aside for the nation.\n\nThis organisation should keep the strategic interests of Bharat first and foremost. This new party should be transparent and open to intellectual and professional advice and criticism from the right and left. This party should pre-emptively form policies on various issues and implement them once in power. This will give competition to the BJP or even win elections and either of them will result in the growth of Bharat."
+		}
+	],
+	"projects":[
+		{
+			"title":"Sentiment Analysis",
+			"img":"/project-pics/sentiment.png",
+			"des":"Analyzing sentiments of different companies in the stock market.",
+			"stack":"Python, Jupyter, NLTK",
+			"github":"Sentiment"
+		},
+		{
+			"title":"PenPalette",
+			"img":"/project-pics/penpalette.png",
+			"des":"A Blogging platform for people to share their ideas and articles.",
+			"stack":"JavaScript, EJS, CSS, NodeJS, MongoDB",
+			"github":"PenPalette/tree/upgrade"
+		},
+		{
+			"title":"QGen",
+			"img":"/project-pics/questions.png",
+			"des":"A Question genarator tool for teachers.",
+			"stack":"React, Python, LangChain, Ollama, Docker",
+			"github":"Teacher-Backend"
+		},
+		{
+			"title":"RAG Chatbot",
+			"img":"/project-pics/bosch.png",
+			"des":"Retrieval augmented multi-modal chatbot which reads text, tables and images from input PDFs and answers user queries specific to PDFs.",
+			"stack":"Python, Qdrant, Docker, Langchain, Ollama (Llava)" 
+		},
+		{
+			"title":"Sloth Type",
+			"img":"/project-pics/slothtype.png",
+			"des":"Designed and developed a Dynamic Typing Speed Game.",
+			"stack":"HTML, CSS, JS",
+			"github":"sloth_type"
+		},
+		{
+			"title":"Potato Disease Classifier",
+			"img":"/project-pics/potato.JPG",
+			"des":"Detection of potato crop disease from images, and crop classification based on healthier yields",
+			"stack":"Python, React, TensorFlow, FastAPI" ,
+			"github":"PotatoDisease"
+		}
+	],
+	"links":{
+			"phone":"+91 9902888858",
+			"mail":"hetarth.jain@gmail.com",
+			"twitter":"https://twitter.com/HetarthJain",
+			"github":"https://github.com/HetarthJain",
+			"linkedin":"https://www.linkedin.com/in/hetarth-jain/",
+			"leetcode":"https://leetcode.com/HJ_1243/",
+			"insta":"https://www.instagram.com/hetarth_1243/",
+			"discord":""
+		}
+}
