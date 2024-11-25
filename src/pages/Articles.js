@@ -4,7 +4,7 @@ function Articles({ articles }) {
     return (
         articles.map((article) => {
             return (
-                <div className="article-comp">
+                <div className="article-comp" id='article'>
                     <h1>My Articles</h1>
                     <div className="article">
                     <Link to="https://theprint.in/campus-voice/india-lacks-an-intellectual-economic-hindu-right-wing-bjp-does-not-qualify/1174580/" className="article-title">
