@@ -7,7 +7,7 @@ function Hero() {
                 <h1>Hi, I'm <span>Hetarth</span> Jain</h1>
             </div>
             <p className='introduction'>
-                I am passionate developer with a strong foundation in first principles problem-solving, I thrive on applying my analytical skills to deliver valuable insights and meaningful contributions. I am driven by a desire to create value, impact the world through my work, and continuously learn and grow. With a deep understanding of software development principles and proficiency in various programming languages and technologies, I'm always ready for new challenges. I work well both independently and within teams. I am good at communicating complex technical ideas to diverse audiences, ensuring clarity for both technical and non-technical stakeholders.
+                I am a final-year student passionate about solving software development challenges using a first-principles approach. Driven by a desire to learn and grow, I have a strong grasp of software development principles and proficiency in languages like C, C++, JavaScript, and Python, as well as tools and frameworks such as Node.js, React.js, and Git. I thrive in collaborative team environments and excel at communicating technical ideas effectively to diverse audiences.
             </p>
         </div>
     )
